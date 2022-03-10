@@ -1,0 +1,64 @@
+
+
+#link{
+    
+    margin-top: -3em;
+      
+}
+
+a{
+    color: aliceblue;
+    margin-right: 5em;
+    margin-left: 90px;
+    font-family: 'Times New Roman', Times, serif';
+}
+
+p{
+ border-bottom: 20em;
+
+
+}
+
+    
+#menu{
+ 
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+    height: 60px;
+    background-image:linear-gradient(to left,blue, purple);
+  
+}
+
+
+#logo1{
+height: 80px;
+
+}
+
+#logo2{
+    position:fixed;
+    margin-top: -2.4em;
+    margin-left: -1em;
+}
+
+html{
+
+    
+    background-image: url("Fundo banana.png")
+}
+
+footer{
+
+    margin-top: 36em;
+    text-align: center;
+}
+
+#rodapezin{
+
+    position: relative;
+    bottom: -580px;
+    clear:both;
+    text-align: center;
+  
+}
